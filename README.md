@@ -3,7 +3,7 @@ My major is computer engineering and I am especially interested in server.<br>
 
 <br>
 
-### Tech Stack 
+### ✨ Tech Stack ✨ 
 #### Techs that I've used at least once<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -16,3 +16,4 @@ My major is computer engineering and I am especially interested in server.<br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=Dialogflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
