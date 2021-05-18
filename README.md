@@ -1,7 +1,6 @@
 My major is computer engineering and I am especially interested in server.<br>
 💎 I put great value on challenging and experiencing new things 💎
 
-<br>
 
 ### ✨ Tech Stack ✨ 
 #### Techs that I've used at least once<br>
@@ -19,3 +18,8 @@ My major is computer engineering and I am especially interested in server.<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=Dialogflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seeheee&show_icons=true&theme=radical)
+
+
