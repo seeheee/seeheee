@@ -8,6 +8,3 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-<br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seeheee&show_icons=true&theme=radical)
