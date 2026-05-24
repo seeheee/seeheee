@@ -60,10 +60,6 @@ Here are some ideas to get you started:
 </div>
             
 
-
-
-          <img width="314" height="83" alt="lcloudlogo"  />
-
   
 
            
