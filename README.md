@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 <br>
 
 
+<div align="center">
+  
+### Languages and Tools
 
-### Languages and Tools:
 <p>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/></a>
   <a href="https://kubernetes.io/ko/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes"/></a>
@@ -46,13 +48,17 @@ Here are some ideas to get you started:
   <a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://github.com/user-attachments/assets/3915d913-fb21-442c-bdac-2db65a564590" height="40" alt="loki"/></a>
   <a href="https://nginx.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="nginx"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" height="40" alt="linux"/></a>
-
-
-          
+  <a href="https://www.redhat.com/ko" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" height="40" alt="redhat"/></a>
   
 </p>
+</div>
 
+<br>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=seeheee)](https://git.io/streak-stats)
+
+</div>
             
           
   
