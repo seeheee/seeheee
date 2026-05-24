@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### a developer who wants to develop something interesting.
 
 🌱 I’m currently learning ...<br>
-🔭 I’m currently working on [LOTTE INNOVATE](https://www.lotteinnovate.com/ko)
+🔭 I’m currently working on <a href="https://www.lotteinnovate.com/ko" target="_blank">LOTTE INNOVATE</a> 
 
 </div>
 
