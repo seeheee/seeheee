@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/></a>
   <a href="https://kubernetes.io/ko/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes"/></a>
   <a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices"/></a>
+  <a href="https://cloud.lotteinnovate.com/platform/l-cloud/" target="_blank"><img src="https://github.com/user-attachments/assets/9b954b59-6d8d-41cc-8e22-ce0972b5b392" height="40" alt="l-cloud"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apacheairflow"/></a>
   <a href="https://trino.io/" target="_blank"><img src="https://github.com/user-attachments/assets/dd01d9fc-f430-4520-bab2-fbb0ac830a61" height="40" alt="trino"/></a>
@@ -58,7 +59,11 @@ Here are some ideas to get you started:
 
 </div>
             
-          
+
+
+
+          <img width="314" height="83" alt="lcloudlogo"  />
+
   
 
            
