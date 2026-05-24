@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apacheairflow"/></a>
   <a href="https://trino.io/" target="_blank"><img src="https://github.com/user-attachments/assets/dd01d9fc-f430-4520-bab2-fbb0ac830a61" height="40" alt="trino"/></a>
+  <br>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/></a>
   <a href="https://argoproj.github.io/cd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="40" alt="argocd"/></a>
   <a href="https://goharbor.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original.svg" height="40" alt="harbor"/></a>
