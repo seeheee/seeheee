@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 # Hi 👋 , I'm seheekwon
 
-### a developer who wants to develop something interesting.
+### Data Platform Infrastructure Engineer who architects scalable and stable Kubernetes environments.
 
-🌱 I’m currently learning ...<br>
+🌱 I’m currently learning GPU resource optimization on K8s with NVIDIA GPU Operator.<br>
 🔭 I’m currently working on <a href="https://www.lotteinnovate.com/ko" target="_blank">LOTTE INNOVATE</a> 
 
 </div>
@@ -34,15 +34,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/>
+  </a>
 </p>
 
 <br>
