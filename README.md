@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **seeheee/seeheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### a developer who wants to develop something interesting.
 
 🌱 I’m currently learning ...<br>
-🔭 I’m currently working on [LOTTE INNOVATE](#)
+🔭 I’m currently working on [LOTTE INNOVATE](https://www.lotteinnovate.com/ko)
 
 </div>
 
