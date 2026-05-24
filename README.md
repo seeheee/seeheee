@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![Profile views](https://img.shields.io/badge/Profile%20views-1,715-326CE5?style=flat)
 
 
 ### Languages and Tools:
