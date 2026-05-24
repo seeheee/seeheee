@@ -31,16 +31,34 @@ Here are some ideas to get you started:
 
 
 
+
 ### Languages and Tools:
 <p>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
   </a>
+    <a href="https://kubernetes.io/ko/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> "height="40" alt="kubernetes"/>
+  </a>
+ <a href="https://www.postgresql.org/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
+  </a>
+
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/>
   </a>
+
+  <a href="https://goharbor.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original.svg" height="40" alt="harbor"/>
+  </a>
+
+  
 </p>
 
+
+           
+          
+          
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeidiHyeji&theme=default&hide_border=false)](https://git.io/streak-stats)
+
