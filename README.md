@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on <a href="https://www.lotteinnovate.com/ko" target="_blank">LOTTE INNOVATE</a> 
 
 </div>
-
 <br>
-
 
 <div align="center">
   
@@ -49,13 +47,12 @@ Here are some ideas to get you started:
   <a href="https://nginx.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="nginx"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux"/></a>
   <a href="https://www.redhat.com/ko" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" height="40" alt="redhat"/></a>
-  
 </p>
-</div>
 
+</div>
 <br>
 <div align="center">
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=seeheee)](https://git.io/streak-stats)
 
 </div>
