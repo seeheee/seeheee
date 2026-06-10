@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <a href="https://grafana.com/oss/loki/" target="_blank"><img src="https://github.com/user-attachments/assets/3915d913-fb21-442c-bdac-2db65a564590" height="40" alt="loki"/></a>
   <a href="https://nginx.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="nginx"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux"/></a>
-  <a href="https://www.redhat.com/ko" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" height="40" alt="redhat"/></a>
+  <a href="https://www.redhat.com/ko" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" height="40" alt="redhat"/></a>
   <a href="https://cloud.lotteinnovate.com/platform/l-cloud/" target="_blank"><img src="https://github.com/user-attachments/assets/9b954b59-6d8d-41cc-8e22-ce0972b5b392" height="40" alt="l-cloud"/></a>
 </p>
 
