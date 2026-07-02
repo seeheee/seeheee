@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Hi 👋 , I'm seheekwon
 
-### Data Platform Infrastructure Engineer who architects scalable and stable Kubernetes environments.
+### BigData Platform Infrastructure Engineer who architects scalable and stable Kubernetes environments.
 
 🌱 I’m currently learning GPU resource optimization on K8s with NVIDIA GPU Operator.<br>
 🔭 I’m currently working on <a href="https://www.lotteinnovate.com/ko" target="_blank">LOTTE INNOVATE</a> 
