@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### BigData Platform Infrastructure Engineer who architects scalable and stable Kubernetes environments.
 
-🌱 I’m currently learning GPU resource optimization on K8s with NVIDIA GPU Operator.<br>
+🌱 I'm currently learning Infrastructure as Code (IaC) with Terraform to automate AWS infrastructure provisioning. </br>
 🔭 I’m currently working on <a href="https://www.lotteinnovate.com/ko" target="_blank">LOTTE INNOVATE</a> 
 
 </div>
